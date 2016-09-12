@@ -1,0 +1,12 @@
+key : google keyword 
+
+1.MD5 minimum record
+http://0xf.kr/md5/
+
+2.md5 beginning zero 
+http://stackoverflow.com/questions/3180374/can-an-md5-hash-begin-with-a-zero#answer-36290650
+http://www.crysys.hu/hashgame/allrecord.php
+
+00000000000000d4a49581c7f0638557 => md5('08ni(g0u3ada_JiyongYoun-HLETRD')
+
+ASIS{08ni(g0u3ada_JiyongYoun-HLETRD}
