@@ -1,6 +1,12 @@
 key : PPC(Professional Programming and Coding)
 Brute Force SHA256 4 alphanumeric
-Bignumber isPrime perfect_power count
+Bignumber prime or perfectPower count
+	
+python 
+	gmpy2 
+	from sympy import perfect_power
+
+
 
 ref : 
 http://www.megabeets.net/asis-ctf-secuprim/
